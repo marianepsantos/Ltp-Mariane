@@ -1,0 +1,41 @@
+body {
+    background: #f2d0d1;
+  }
+  
+  .produto1-card{
+    background-color: #FFFF;
+    
+    display: inline-block;
+    width: 290px;
+    height: 350px;
+    padding: 5px;
+    margin: 20px;
+    overflow: hidden;
+  }
+  
+  
+  .rosa{
+    color: #e76980;
+    font-family: Atma, cursive;
+  }
+  
+  .p{
+    color: #e76980;
+    font-family: Atma, cursive;
+  }
+  
+  .lista{
+    color: #e76980;
+    font-family: Atma, cursive;
+  }
+  
+  .produto2-card{
+    background-color: #FFFF;
+    
+    display: inline-block;
+    width: 290px;
+    height: 250px;
+    padding: 5px;
+    margin: 20px;
+    overflow: hidden;
+  }
